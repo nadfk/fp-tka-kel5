@@ -4,6 +4,7 @@
 |Nama|NRP|
 |----|---|
 |Ahmad Idza Anafin|5027241017|
+|Muhammad Ziddan Habibi|5027241122|
 
 
 ## Permasalahan 
